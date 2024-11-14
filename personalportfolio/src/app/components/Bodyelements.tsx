@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import profile from "@/app/Images/WhatsApp Image 2024-11-13 at 16.05.31_dc71bf57.jpg";
-import "animate.css";
+
 
 export default function Bodyelements() {
   return (

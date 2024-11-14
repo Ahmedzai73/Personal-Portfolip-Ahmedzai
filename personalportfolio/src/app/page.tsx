@@ -5,8 +5,8 @@ import AboutElements from "@/app/components/AboutElements";
 export default function Home() {
   return (
     <div>
-      <Bodyelements />
-      <AboutElements />
+      {/* <Bodyelements />
+      <AboutElements /> */}
     </div>
   );
 }
